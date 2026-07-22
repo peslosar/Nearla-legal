@@ -15,7 +15,7 @@ Prevádzkovateľom appky Nearla je [DOPLNIŤ: meno/názov spoločnosti, adresa,
 IČO — v čase písania tohto draftu appka beží pod osobným vývojárskym účtom,
 nie pod založenou s.r.o.].
 
-Kontakt vo veciach ochrany osobných údajov: [DOPLNIŤ EMAIL]
+Kontakt vo veciach ochrany osobných údajov: peslosar@icloud.com
 
 ## 2. Aké údaje spracúvame
 
@@ -64,7 +64,7 @@ Vaše údaje sa nikdy nepredávajú tretím stranám na marketingové účely.
 
 Kým máte účet aktívny. **Appka k dátumu tejto verzie zásad NEMÁ funkciu na
 samoobslužné zmazanie účtu ani dát priamo v appke.** Ak chcete svoje účet
-alebo údaje zmazať, kontaktujte nás na [DOPLNIŤ EMAIL] a zmažeme ich
+alebo údaje zmazať, kontaktujte nás na peslosar@icloud.com a zmažeme ich
 manuálne. Samoobslužné zmazanie účtu je plánovaná, zatiaľ neimplementovaná
 funkcia.
 
@@ -72,7 +72,7 @@ funkcia.
 
 Máte právo na prístup k svojim údajom, ich opravu, vymazanie, obmedzenie
 spracúvania, prenositeľnosť a právo namietať proti spracúvaniu. Na
-uplatnenie týchto práv nás kontaktujte na [DOPLNIŤ EMAIL].
+uplatnenie týchto práv nás kontaktujte na peslosar@icloud.com.
 
 ## 8. Bezpečnosť údajov
 
@@ -89,4 +89,4 @@ budeme informovať v appke.
 ## 10. Kontakt
 
 Otázky k týmto zásadám alebo k spracúvaniu vašich údajov posielajte na:
-[DOPLNIŤ EMAIL]
+peslosar@icloud.com
